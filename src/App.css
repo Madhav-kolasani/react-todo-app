@@ -1,0 +1,26 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+  width: 100%;
+}
+
+.container{
+  text-align: left;
+}
+.mad-button{
+  width: 80px;
+}
+.mad-row{
+  margin: 10px 5px;
+}
+.todo-container{
+  background-color:rgb(244, 244, 227) ;
+  margin: 200px 400px;
+  margin-top: 100px;
+  border-radius: 20px;
+}
